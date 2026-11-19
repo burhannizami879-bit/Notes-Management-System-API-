@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Python Basics",
+        "content": "Learning Python programming"
+    },
+    {
+        "id": 2,
+        "title": "string",
+        "content": "string"
+    },
+    {
+        "id": 3,
+        "title": "HTML Basics",
+        "content": "Learning HTML"
+    }
+]
